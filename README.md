@@ -22,9 +22,9 @@ GitHub Repositories Explorer is a responsive, dynamic, and interactive dashboard
 
 
 ## Demo
-
-Check out the live demo to see the app in action:  
-Demo will be available soon.
+ 
+Explore GitHub Repositories Explorer in action and discover GitHub users and repositories in real-time:  
+🔗 **[Live Demo](https://ghsearch-abdil.netlify.app/)**  
 
 ## Getting Started
 
